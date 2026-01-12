@@ -1,5 +1,3 @@
-package EmployeMenagementSystem;
-
 class Employee {
     private int id;
     private String name;
@@ -40,3 +38,4 @@ class Employee {
         System.out.println(id + "\t" + name + "\t" + department + "\t" + salary);
     }
 }
+
