@@ -1,5 +1,3 @@
-package EmployeMenagementSystem;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -127,3 +125,4 @@ public class EmployeeManagementSystem {
         System.out.println("Employee not found!");
     }
 }
+
